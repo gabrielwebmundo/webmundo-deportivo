@@ -1,0 +1,104 @@
+@charset "utf-8";
+<!--Estilos-->
+	<style>
+		.jumbotron {
+			background-color:  #F30C10;
+			color: #ffffff;
+			padding: 100px 25px;
+			font-family: sans-serif;
+			text-align: center
+				<form class="form-inline">;
+			
+		}
+		.container-fluid {
+			padding: 40px 50px;
+		}
+		.bg-grey {
+			background-color: 	#025AE1;
+}.panel {
+	border: 1px solid #EDC45B;
+}
+.panel; hover
+{
+	box-shadow: 3px 7px 30px #008000;	
+}
+.equipo .panel-heading {
+    color: #fff;
+    background-color: #D87EE;
+    padding: 25px;
+    border-bottom: 1px solid;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.panel-footer {
+    background-color: #FF8FB;
+}
+.panel-footer h4 {
+    color: #0C32F5;
+    font-size: 15px;
+}
+@media screen and (min-width:320px) {
+	img {
+		max-width: 100%;
+		}
+	}
+}
+@media screen and (min-width:768px) {
+	img {
+		max-width: 150%;
+		}
+	}
+}
+@media screen and (min-width:980px) {
+	img {
+		max-width: 225%;
+		}
+	}
+}
+@media screen and (min-width:1200px) {
+	img {
+		max-width: 300%;
+		}
+	}
+.menu {
+    background-color: #0DF5C6;
+    padding: 5px 0px 14px;
+    border: 0;
+    font-size: 12px;
+    line-height: 1.42;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+}
+.menu .navbar-nav li a, .menu .navbar-brand {
+    color: #fff;
+}
+.menu .navbar-nav li a:hover, .menu .navbar-nav li.active a {
+    color: #FF0017;
+    background-color: #fff;
+}
+.menu .navbar-default .menu .navbar-toggle {
+    border-color: transparent;
+    color: #fff;
+}
+footer .glyphicon {
+	font-size: 30px;
+	margin-bottom: 10px;
+	color: #09EF23;
+}
+
+
+
+
+
+	
+	
+
+
+
+	
+		
+
+	</style>
+
